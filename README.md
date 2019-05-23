@@ -1,5 +1,7 @@
 # Big-PGHLittleHack-2019
 
+Loved this event? Join VMware Code and ask for an invite to the private #pghlittlehack channel. We meet every month!
+
 # Table of Contents
 - [Big-PGHLittleHack-2019](#big-pghlittlehack-2019)
 - [Table of Contents](#table-of-contents)
